@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TEMP\\source\\repos\\ListaDeExercicios\\ListaDeExercicios\\Nivel2\\Nivel2.csproj",
+      "projectUniqueName": "C:\\Users\\TEMP\\Documents\\ListaDeExercicios\\Nivel2\\Nivel2.csproj",
       "projectName": "Nivel2",
-      "projectPath": "C:\\Users\\TEMP\\source\\repos\\ListaDeExercicios\\ListaDeExercicios\\Nivel2\\Nivel2.csproj",
+      "projectPath": "C:\\Users\\TEMP\\Documents\\ListaDeExercicios\\Nivel2\\Nivel2.csproj",
       "packagesPath": "C:\\Users\\TEMP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TEMP\\source\\repos\\ListaDeExercicios\\ListaDeExercicios\\Nivel2\\obj\\",
+      "outputPath": "C:\\Users\\TEMP\\Documents\\ListaDeExercicios\\Nivel2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

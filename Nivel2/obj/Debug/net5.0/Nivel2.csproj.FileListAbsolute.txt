@@ -1,0 +1,16 @@
+C:\Users\TEMP\Documents\ListaDeExercicios\Nivel2\obj\Debug\net5.0\Nivel2.csproj.AssemblyReference.cache
+C:\Users\TEMP\Documents\ListaDeExercicios\Nivel2\obj\Debug\net5.0\Nivel2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP\Documents\ListaDeExercicios\Nivel2\obj\Debug\net5.0\Nivel2.AssemblyInfoInputs.cache
+C:\Users\TEMP\Documents\ListaDeExercicios\Nivel2\obj\Debug\net5.0\Nivel2.AssemblyInfo.cs
+C:\Users\TEMP\Documents\ListaDeExercicios\Nivel2\obj\Debug\net5.0\Nivel2.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\Documents\ListaDeExercicios\Nivel2\bin\Debug\net5.0\Nivel2.exe
+C:\Users\TEMP\Documents\ListaDeExercicios\Nivel2\bin\Debug\net5.0\Nivel2.deps.json
+C:\Users\TEMP\Documents\ListaDeExercicios\Nivel2\bin\Debug\net5.0\Nivel2.runtimeconfig.json
+C:\Users\TEMP\Documents\ListaDeExercicios\Nivel2\bin\Debug\net5.0\Nivel2.runtimeconfig.dev.json
+C:\Users\TEMP\Documents\ListaDeExercicios\Nivel2\bin\Debug\net5.0\Nivel2.dll
+C:\Users\TEMP\Documents\ListaDeExercicios\Nivel2\bin\Debug\net5.0\ref\Nivel2.dll
+C:\Users\TEMP\Documents\ListaDeExercicios\Nivel2\bin\Debug\net5.0\Nivel2.pdb
+C:\Users\TEMP\Documents\ListaDeExercicios\Nivel2\obj\Debug\net5.0\Nivel2.dll
+C:\Users\TEMP\Documents\ListaDeExercicios\Nivel2\obj\Debug\net5.0\ref\Nivel2.dll
+C:\Users\TEMP\Documents\ListaDeExercicios\Nivel2\obj\Debug\net5.0\Nivel2.pdb
+C:\Users\TEMP\Documents\ListaDeExercicios\Nivel2\obj\Debug\net5.0\Nivel2.genruntimeconfig.cache
