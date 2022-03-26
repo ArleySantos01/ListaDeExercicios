@@ -8,7 +8,7 @@ namespace Nivel2
 {
     class Exercicio12
     {
-        static void Main(string[] args)
+        static void Main12(string[] args)
         {
             int num = 0;
             int mod = 0;

@@ -8,5 +8,9 @@ namespace Nivel2
 {
     class Exercicio15
     {
+        static void Main(string[] args)
+        {
+            
+        } 
     }
 }
