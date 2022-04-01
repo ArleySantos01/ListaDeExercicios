@@ -4,9 +4,12 @@ namespace Nivel4
 {
     class Exercicio26
     {
-        static void Main(string[] args)
+        static void Main26(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            for (int i = 100; i >= 1; i--)
+            {
+                Console.WriteLine("" + i);
+            }
         }
     }
 }

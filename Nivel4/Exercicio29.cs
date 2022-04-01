@@ -8,5 +8,12 @@ namespace Nivel4
 {
     class Exercicio29
     {
+        static void Main29(string[] args)
+        {
+            for (int i = 0; i <= 2000; i++)
+            {
+                Console.WriteLine("" + i);
+            }
+        }
     }
 }
