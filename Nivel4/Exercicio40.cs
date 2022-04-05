@@ -8,7 +8,7 @@ namespace Nivel4
 {
     class Exercicio40
     {
-        static void Main(string[] args)
+        static void Main40(string[] args)
         {
             double controlePoluicao = 0.0;
             char cancelar = 'n';
