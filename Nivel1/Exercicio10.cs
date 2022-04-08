@@ -8,7 +8,7 @@ namespace Nivel1
 {
     class Exercicio10
     {
-        static void Main(string[] args)
+        static void Main10(string[] args)
         {
             int num1, num2;
             num1 = Convert.ToInt32(Console.ReadLine());

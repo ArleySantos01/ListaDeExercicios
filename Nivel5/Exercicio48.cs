@@ -8,7 +8,7 @@ namespace Nivel5
 {
     class Exercicio48
     {
-        static void Main(string[] args)
+        static void Main48(string[] args)
         {
             String[] nomeCandidata = new String[20];
             int[] idadeCandidata = new int[20];

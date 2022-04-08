@@ -8,7 +8,7 @@ namespace Nivel5
 {
     class Exercicio50
     {
-        static void Main(string[] args)
+        static void Main50(string[] args)
         {
             Random random = new Random();
             int tentativas = 5;

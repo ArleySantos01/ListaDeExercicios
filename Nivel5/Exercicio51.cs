@@ -8,7 +8,7 @@ namespace Nivel5
 {
     class Exercicio51
     {
-        static void Main(string[] args)
+        static void Main51(string[] args)
         {
             int quantAluno = 0;
             int quantidade = 0;

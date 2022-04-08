@@ -8,7 +8,7 @@ namespace Nivel5
 {
     class Exercicio47
     {
-        static void Main(string[] args)
+        static void Main47(string[] args)
         {
             int[] numero = new int[10];
             int identifica = 0;

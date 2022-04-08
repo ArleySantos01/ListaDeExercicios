@@ -8,7 +8,7 @@ namespace Nivel5
 {
     class Exercicio52
     {
-        static void Main(string[] args)
+        static void Main52(string[] args)
         {
             int[] VetorInteiro = new int[100];
             int conteUm = 0;

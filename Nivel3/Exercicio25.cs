@@ -28,7 +28,7 @@ namespace Nivel3
     		return total;
     	}
     	
-    	static void Main(string[] args)
+    	static void Main25(string[] args)
     	{
     		Exercicio25 entradaInicial = new Exercicio25();
     		char entreSexo;

@@ -8,7 +8,7 @@ namespace Nivel4
 {
     class Exercicio44
     {
-        static void Main(string[] args)
+        static void Main44(string[] args)
         {
             char cancelar = 'n';
             int selecao = 0;

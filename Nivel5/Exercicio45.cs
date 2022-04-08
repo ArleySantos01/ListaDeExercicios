@@ -4,7 +4,7 @@ namespace Nivel5
 {
     class Exercicio45
     {
-        static void Main(string[] args)
+        static void Main45(string[] args)
         {
             int[] numero = new int[10];
             for (int i = 0; i < 10; i++)

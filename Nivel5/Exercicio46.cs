@@ -8,7 +8,7 @@ namespace Nivel5
 {
     class Exercicio46
     {
-        static void Main(string[] args)
+        static void Main46(string[] args)
         {
             int n;
             Console.WriteLine("Digite o número limite da array");

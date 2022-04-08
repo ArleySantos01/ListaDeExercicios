@@ -8,7 +8,7 @@ namespace Nivel3
 {
     class Exercicio24
     {
-    	static void Main(string[] args)
+    	static void Main24(string[] args)
     	{
     		int selecao;
     		int primeiroNum;
